@@ -1,6 +1,6 @@
 
 <h1 align = "center">👋Dong Hun👋</h1>
-<img align = "right" src="https://github-readme-stats.vercel.app/api?username=dohi0512"/>
+<img align = "right" width= "450px" src="https://github-readme-stats.vercel.app/api?username=dohi0512"/>
 
 ### 🛠I've used🛠
 
